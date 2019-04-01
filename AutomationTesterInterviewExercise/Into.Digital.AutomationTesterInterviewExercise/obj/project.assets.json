@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Grandma\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Grandma\\Downloads\\AutomationTesterInterviewExercise (2)\\AutomationTesterInterviewExercise\\Into.Digital.AutomationTesterInterviewExercise\\Into.Digital.AutomationTesterInterviewExercise.csproj",
+      "projectName": "Into.Digital.AutomationTesterInterviewExercise",
+      "projectPath": "C:\\Users\\Grandma\\Downloads\\AutomationTesterInterviewExercise (2)\\AutomationTesterInterviewExercise\\Into.Digital.AutomationTesterInterviewExercise\\Into.Digital.AutomationTesterInterviewExercise.csproj",
+      "packagesPath": "C:\\Users\\Grandma\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Grandma\\Downloads\\AutomationTesterInterviewExercise (2)\\AutomationTesterInterviewExercise\\Into.Digital.AutomationTesterInterviewExercise\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Grandma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.1": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+﻿TIMINGS
+Don't spend any more than two hours on this - if you do you've gone too far!  More likely, it will take an hour or 
+less. If it is taking longer, consider providing notes about what you would have done if you had more time.
+
+TASKS
+1) Write the automation test to switch the localisation - make a note of your process in the Notes.txt file.
+
+2) Refactor the code base how you see fit - do _not_ edit the DriverArrange() or GetProjectPath() methods in the DriverArrange.cs 
+   Make a note of your refactorings in the Notes.txt file as you go. 
+
+OUTPUTS
+1) A solution that builds, and where all automation tests pass.
+2) A note about your process for implementing the missing automation test.
+3) A note about the reason for each refactoring (in the Notes.txt file).
+4) Any observations or suggestions for further improvements (if you were to spend more time on this).

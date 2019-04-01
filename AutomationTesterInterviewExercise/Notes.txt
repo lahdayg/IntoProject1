@@ -1,0 +1,35 @@
+﻿I created four Folders(Features, PageObject, StepDefinition and Utilities)
+Decided to use BDD approach in writing my Features i.e Gherkin Language
+My test cases was written in Given, When, Then approach
+I then right click on my test cases in my Feature file to generate my Step Definition
+Step Definition generated
+My PageObject is used to write my codes and methods. 
+Inspect the element
+Decide on the attribute to use to find my element(css selector,LinkText, Id, Name etc )
+I Copied the attribute
+Write the code to find the element
+I then call those methods from my StepDefinition
+Then I used bool for my Assertion because i want it to display either true or false
+My Drivers are stored in my utilily folder
+I then create instance of the browser
+I used Implicit wait
+Telling my WebDriver to poll the DOM  for certain amount of time in order to find the element
+I used PageObject for refactoring because:
+Easy access to codes and methods
+It`s cleaner and neater the way it`s written
+The codes can be re-used in the future
+The codes and methods are easy to maintain
+Debugging is easier with the approach i have used
+And you can as well add new features
+
+Note
+
+There is currently a general problem with Specflow. When you build, it brings error message which many users are still struggling to decode
+I think this is due to the recent upgrade. The problem started on Saturday. Still has not been fixed till date.
+Therefore my test will not run but the process I`ve used is what i normally use day in day out.
+
+And I couldnt save my project on this as it kept saying its a read only file so that is why i created another stand alone project which I`ll be sending separately.
+
+Had it been I have more time, I`ll figure out what went wrong with Specflow
+I can string the website url from my feature file
+Create more test cases
